@@ -1,0 +1,7 @@
+C:\Users\hidde\Desktop\ASS\ASS\ASS\bin\Debug\ASS.exe.config
+C:\Users\hidde\Desktop\ASS\ASS\ASS\bin\Debug\ASS.exe
+C:\Users\hidde\Desktop\ASS\ASS\ASS\bin\Debug\ASS.pdb
+C:\Users\hidde\Desktop\ASS\ASS\ASS\obj\Debug\ASS.csprojAssemblyReference.cache
+C:\Users\hidde\Desktop\ASS\ASS\ASS\obj\Debug\ASS.csproj.CoreCompileInputs.cache
+C:\Users\hidde\Desktop\ASS\ASS\ASS\obj\Debug\ASS.exe
+C:\Users\hidde\Desktop\ASS\ASS\ASS\obj\Debug\ASS.pdb
